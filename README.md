@@ -16,7 +16,12 @@ The code is free to use, modify and replicate, but please cite the above article
 ```plot.R```: Plot simulation results. 
 
 ## 2D simulation
-To be added.
+```simulation.R```: Runs simulation.
+
+```simulation_results.R```: Extracts results from simulation.
+
+```plot_sim_example```, ```ggplot```: Plot simulation results, cf. figures 3 and 4 of the article. 
+
 ## Application: analysis of climate data
 ```analysis.R```: Analysis file
 
